@@ -12,7 +12,7 @@ import { theme } from './src/infrastructure/theme';
 import { RestaurantsScreen } from './src/features/restaurants/screens/restaurants.screen';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import { Text, View } from 'react-native';
+import { Text } from 'react-native';
 import { SafeArea } from './src/components/utility/safe-area.component';
 import { Ionicons } from '@expo/vector-icons';
 import { RestaurantsContextProvider } from './src/services/restaurants/restaurants.context';
@@ -113,7 +113,7 @@ export default function App() {
                     </RestaurantsContextProvider>
                 </LocationContextProvider>
             </ThemeProvider>
-            <ExpoStatusBar style="auto"></ExpoStatusBar>
+            <ExpoStatusBar style="auto" />
         </>
     );
 }

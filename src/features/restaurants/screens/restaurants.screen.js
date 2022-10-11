@@ -1,8 +1,7 @@
 import React, { useContext } from 'react';
 import { FlatList } from 'react-native';
-import { ActivityIndicator, Searchbar } from 'react-native-paper';
+import { ActivityIndicator } from 'react-native-paper';
 import styled from 'styled-components/native';
-import { isPropertySignature } from 'typescript';
 import { Spacer } from '../../../components/spacer/spacer.component';
 import { SafeArea } from '../../../components/utility/safe-area.component';
 import { RestaurantsContext } from '../../../services/restaurants/restaurants.context';
