@@ -1,0 +1,625 @@
+[
+    {
+        "businessStatus": "OPERATIONAL",
+        "geometry": {
+            "location": ["Object"],
+            "viewport": ["Object"]
+        },
+        "isClosedTemporarily": false,
+        "isOpenNow": true,
+        "ix": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Zuni Café",
+        "openingHours": {
+            "openNow": true
+        },
+        "photos": [["Object"]],
+        "placeId": "some place id 41",
+        "plusCode": {
+            "compoundCode": "",
+            "globalCode": ""
+        },
+        "priceLevel": 3,
+        "rating": 4.4,
+        "reference": "",
+        "scope": "",
+        "types": [
+            "cafe",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "userRatingsTotal": 1675,
+        "vicinity": "1658 Market Street, San Francisco"
+    },
+    {
+        "businessStatus": "OPERATIONAL",
+        "geometry": {
+            "location": ["Object"],
+            "viewport": ["Object"]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "isClosedTemporarily": false,
+        "isOpenNow": true,
+        "name": "Brenda's French Soul Food",
+        "openingHours": {
+            "openNow": true
+        },
+        "photos": [["Object"]],
+        "placeId": "some place id 42",
+        "plusCode": {
+            "compoundCode": "",
+            "globalCode": ""
+        },
+        "priceLevel": 2,
+        "rating": 4.5,
+        "reference": "",
+        "scope": "",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "userRatingsTotal": 4404,
+        "vicinity": "652 Polk Street, San Francisco"
+    },
+    {
+        "businessStatus": "OPERATIONAL",
+        "geometry": {
+            "location": ["Object"],
+            "viewport": ["Object"]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "isClosedTemporarily": false,
+        "isOpenNow": false,
+        "name": "DNA Lounge",
+        "openingHours": {
+            "openNow": false
+        },
+        "photos": [["Object"]],
+        "placeId": "some place id 43",
+        "plusCode": {
+            "compoundCode": "",
+            "globalCode": ""
+        },
+        "priceLevel": 2,
+        "rating": 4.3,
+        "reference": "",
+        "scope": "",
+        "types": [
+            "night_club",
+            "cafe",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "userRatingsTotal": 1284,
+        "vicinity": "375 11th Street, San Francisco"
+    },
+    {
+        "businessStatus": "OPERATIONAL",
+        "geometry": {
+            "location": ["Object"],
+            "viewport": ["Object"]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "isClosedTemporarily": false,
+        "isOpenNow": false,
+        "name": "Absinthe Brasserie & Bar",
+        "openingHours": {
+            "openNow": false
+        },
+        "photos": [["Object"]],
+        "placeId": "some place id 44",
+        "plusCode": {
+            "compoundCode": "",
+            "globalCode": ""
+        },
+        "priceLevel": 3,
+        "rating": 4.3,
+        "reference": "",
+        "scope": "",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "userRatingsTotal": 1405,
+        "vicinity": "398 Hayes Street, San Francisco"
+    },
+    {
+        "businessStatus": "OPERATIONAL",
+        "geometry": {
+            "location": ["Object"],
+            "viewport": ["Object"]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "isClosedTemporarily": false,
+        "isOpenNow": true,
+        "name": "YH - BEIJING",
+        "openingHours": {
+            "openNow": true
+        },
+        "photos": [["Object"]],
+        "placeId": "some place id 45",
+        "plusCode": {
+            "compoundCode": "",
+            "globalCode": ""
+        },
+        "priceLevel": 1,
+        "rating": 4.4,
+        "reference": "",
+        "scope": "",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "userRatingsTotal": 191,
+        "vicinity": "500 Haight Street, San Francisco"
+    },
+    {
+        "businessStatus": "OPERATIONAL",
+        "geometry": {
+            "location": ["Object"],
+            "viewport": ["Object"]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "isClosedTemporarily": false,
+        "isOpenNow": false,
+        "name": "Zeitgeist",
+        "openingHours": {
+            "openNow": false
+        },
+        "photos": [["Object"]],
+        "placeId": "some place id 46",
+        "plusCode": {
+            "compoundCode": "",
+            "globalCode": ""
+        },
+        "priceLevel": 1,
+        "rating": 4.3,
+        "reference": "",
+        "scope": "",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "userRatingsTotal": 2488,
+        "vicinity": "199 Valencia Street, San Francisco"
+    },
+    {
+        "businessStatus": "OPERATIONAL",
+        "geometry": {
+            "location": ["Object"],
+            "viewport": ["Object"]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "isClosedTemporarily": false,
+        "isOpenNow": true,
+        "name": "Pancho Villa Taqueria",
+        "openingHours": {
+            "openNow": true
+        },
+        "photos": [["Object"]],
+        "placeId": "some place id 47",
+        "plusCode": {
+            "compoundCode": "",
+            "globalCode": ""
+        },
+        "priceLevel": 1,
+        "rating": 4.4,
+        "reference": "",
+        "scope": "",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "userRatingsTotal": 2921,
+        "vicinity": "3071 16th Street, San Francisco"
+    },
+    {
+        "businessStatus": "OPERATIONAL",
+        "geometry": {
+            "location": ["Object"],
+            "viewport": ["Object"]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "isClosedTemporarily": false,
+        "isOpenNow": false,
+        "name": "The Monk's Kettle",
+        "openingHours": {
+            "openNow": false
+        },
+        "photos": [["Object"]],
+        "placeId": "some place id 48",
+        "plusCode": {
+            "compoundCode": "",
+            "globalCode": ""
+        },
+        "priceLevel": 2,
+        "rating": 4.5,
+        "reference": "",
+        "scope": "",
+        "types": [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "userRatingsTotal": 1392,
+        "vicinity": "3141 16th Street, San Francisco"
+    },
+    {
+        "businessStatus": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": ["Object"],
+            "viewport": ["Object"]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "isClosedTemporarily": true,
+        "isOpenNow": "undefined",
+        "name": "Bar Agricole",
+        "permanentlyClosed": true,
+        "photos": [["Object"]],
+        "placeId": "some place id 49",
+        "plusCode": {
+            "compoundCode": "",
+            "globalCode": ""
+        },
+        "priceLevel": 3,
+        "rating": 4.2,
+        "reference": "",
+        "scope": "",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "userRatingsTotal": 490,
+        "vicinity": "355 11th Street, San Francisco"
+    },
+    {
+        "businessStatus": "OPERATIONAL",
+        "geometry": {
+            "location": ["Object"],
+            "viewport": ["Object"]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "isClosedTemporarily": false,
+        "isOpenNow": true,
+        "name": "SoMa StrEat Food Park",
+        "openingHours": {
+            "openNow": true
+        },
+        "photos": [["Object"]],
+        "placeId": "some place id 50",
+        "plusCode": {
+            "compoundCode": "",
+            "globalCode": ""
+        },
+        "priceLevel": 2,
+        "rating": 4.3,
+        "reference": "",
+        "scope": "",
+        "types": [
+            "hair_care",
+            "restaurant",
+            "food",
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "userRatingsTotal": 1644,
+        "vicinity": "428 11th Street, San Francisco"
+    },
+    {
+        "businessStatus": "OPERATIONAL",
+        "geometry": {
+            "location": ["Object"],
+            "viewport": ["Object"]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "isClosedTemporarily": false,
+        "isOpenNow": false,
+        "name": "Suppenküche",
+        "openingHours": {
+            "openNow": false
+        },
+        "photos": [["Object"]],
+        "placeId": "some place id 51",
+        "plusCode": {
+            "compoundCode": "",
+            "globalCode": ""
+        },
+        "priceLevel": 2,
+        "rating": 4.5,
+        "reference": "",
+        "scope": "",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "userRatingsTotal": 1344,
+        "vicinity": "525 Laguna Street, San Francisco"
+    },
+    {
+        "businessStatus": "OPERATIONAL",
+        "geometry": {
+            "location": ["Object"],
+            "viewport": ["Object"]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "isClosedTemporarily": false,
+        "isOpenNow": false,
+        "name": "City Beer Store",
+        "openingHours": {
+            "openNow": false
+        },
+        "photos": [["Object"]],
+        "placeId": "some place id 52",
+        "plusCode": {
+            "compoundCode": "",
+            "globalCode": ""
+        },
+        "priceLevel": 2,
+        "rating": 4.6,
+        "reference": "",
+        "scope": "",
+        "types": [
+            "bar",
+            "liquor_store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "userRatingsTotal": 977,
+        "vicinity": "1148 Mission Street, San Francisco"
+    },
+    {
+        "businessStatus": "OPERATIONAL",
+        "geometry": {
+            "location": ["Object"],
+            "viewport": ["Object"]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "isClosedTemporarily": false,
+        "isOpenNow": false,
+        "name": "Tommy's Joynt",
+        "openingHours": {
+            "openNow": false
+        },
+        "photos": [["Object"]],
+        "placeId": "some place id 53",
+        "plusCode": {
+            "compoundCode": "",
+            "globalCode": ""
+        },
+        "priceLevel": 1,
+        "rating": 4.4,
+        "reference": "",
+        "scope": "",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "userRatingsTotal": 3184,
+        "vicinity": "1101 Geary Boulevard, San Francisco"
+    },
+    {
+        "businessStatus": "OPERATIONAL",
+        "geometry": {
+            "location": ["Object"],
+            "viewport": ["Object"]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "isClosedTemporarily": false,
+        "isOpenNow": false,
+        "name": "Limón Rotisserie",
+        "openingHours": {
+            "openNow": false
+        },
+        "photos": [["Object"]],
+        "placeId": "some place id 54",
+        "plusCode": {
+            "compoundCode": "",
+            "globalCode": ""
+        },
+        "priceLevel": 2,
+        "rating": 4.4,
+        "reference": "",
+        "scope": "",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "userRatingsTotal": 1399,
+        "vicinity": "524 Valencia Street, San Francisco"
+    },
+    {
+        "businessStatus": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": ["Object"],
+            "viewport": ["Object"]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "isClosedTemporarily": true,
+        "isOpenNow": "undefined",
+        "name": "Hayes Street Grill",
+        "permanentlyClosed": true,
+        "photos": [["Object"]],
+        "placeId": "some place id 55",
+        "plusCode": {
+            "compoundCode": "",
+            "globalCode": ""
+        },
+        "priceLevel": 3,
+        "rating": 4.2,
+        "reference": "",
+        "scope": "",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "userRatingsTotal": 214,
+        "vicinity": "320 Hayes Street, San Francisco"
+    },
+    {
+        "businessStatus": "OPERATIONAL",
+        "geometry": {
+            "location": ["Object"],
+            "viewport": ["Object"]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "isClosedTemporarily": false,
+        "isOpenNow": false,
+        "name": "Pause Wine Bar in Hayes Valley",
+        "openingHours": {
+            "openNow": false
+        },
+        "photos": [["Object"]],
+        "placeId": "some place id 56",
+        "plusCode": {
+            "compoundCode": "",
+            "globalCode": ""
+        },
+        "priceLevel": 2,
+        "rating": 4.5,
+        "reference": "",
+        "scope": "",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "userRatingsTotal": 82,
+        "vicinity": "1666 Market Street, San Francisco"
+    },
+    {
+        "businessStatus": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": ["Object"],
+            "viewport": ["Object"]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "isClosedTemporarily": true,
+        "isOpenNow": "undefined",
+        "name": "AsiaSF",
+        "permanentlyClosed": true,
+        "photos": [["Object"]],
+        "placeId": "some place id 57",
+        "plusCode": {
+            "compoundCode": "",
+            "globalCode": ""
+        },
+        "priceLevel": 3,
+        "rating": 4.4,
+        "reference": "",
+        "scope": "",
+        "types": [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "userRatingsTotal": 457,
+        "vicinity": "201 9th Street, San Francisco"
+    },
+    {
+        "businessStatus": "OPERATIONAL",
+        "geometry": {
+            "location": ["Object"],
+            "viewport": ["Object"]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "isClosedTemporarily": false,
+        "isOpenNow": true,
+        "name": "Jasper's Corner Tap and Kitchen",
+        "openingHours": {
+            "openNow": true
+        },
+        "photos": [["Object"]],
+        "placeId": "some place id 58",
+        "plusCode": {
+            "compoundCode": "",
+            "globalCode": ""
+        },
+        "priceLevel": 2,
+        "rating": 3.8,
+        "reference": "",
+        "scope": "",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "userRatingsTotal": 549,
+        "vicinity": "401 Taylor Street, San Francisco"
+    },
+    {
+        "businessStatus": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": ["Object"],
+            "viewport": ["Object"]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "isClosedTemporarily": true,
+        "isOpenNow": "undefined",
+        "name": "Mikkeller Bar",
+        "permanentlyClosed": true,
+        "photos": [["Object"]],
+        "placeId": "some place id 59",
+        "plusCode": {
+            "compoundCode": "",
+            "globalCode": ""
+        },
+        "priceLevel": 2,
+        "rating": 4.5,
+        "reference": "",
+        "scope": "",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "userRatingsTotal": 2630,
+        "vicinity": "34 Mason Street, San Francisco"
+    },
+    {
+        "businessStatus": "OPERATIONAL",
+        "geometry": {
+            "location": ["Object"],
+            "viewport": ["Object"]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "isClosedTemporarily": false,
+        "isOpenNow": true,
+        "name": "Patxi's Pizza",
+        "openingHours": {
+            "openNow": true
+        },
+        "photos": [["Object"]],
+        "placeId": "some place id 60",
+        "plusCode": {
+            "compoundCode": "",
+            "globalCode": ""
+        },
+        "priceLevel": 2,
+        "rating": 4.2,
+        "reference": "",
+        "scope": "",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "userRatingsTotal": 861,
+        "vicinity": "511 Hayes Street, San Francisco"
+    }
+]
