@@ -5,9 +5,13 @@ import { LocationContext } from '../../../services/location/location.context';
 
 const SearchContainer = styled.View`
     padding: ${({ theme }) => theme.space.md};
+    position: absolute;
+    z-index: 999;
+    top: ${({ theme }) => theme.space.lg};
+    width: 100%;
 `;
 
-export const Search = ({ isFavouritesToggled, onFavouritesToggled }) => {
+export const Search = () => {
     const { keyword, search } = useContext(LocationContext);
     const [searchKeyword, setSearchKeyword] = useState(keyword);
     useEffect(() => {
@@ -17,9 +21,8 @@ export const Search = ({ isFavouritesToggled, onFavouritesToggled }) => {
     return (
         <SearchContainer>
             <Searchbar
-                icon={isFavouritesToggled ? 'heart' : 'heart-outline'}
-                onIconPress={onFavouritesToggled}
                 placeholder="Search for a location"
+                icon="map"
                 value={searchKeyword}
                 onSubmitEditing={() => {
                     search(searchKeyword);
